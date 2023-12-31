@@ -25,8 +25,10 @@ Finally, the test scores and predicted scores are concatenated into an array to 
 
 Install Anaconda Python 3.6 version
 https://conda.io/docs/user-guide/install/index.html
+
 Install Python 3.6
 https://www.python.org/downloads/release/python-360/
+
 Install Jupyter Notebook
 https://jupyter.org/install
 
